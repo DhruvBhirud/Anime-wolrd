@@ -17,12 +17,12 @@ var jwDefaults = {
   "displaytitle": false,
   "height": 260,
   "key": "F8nG7riZ0Vld/Qd7hvss9wQ+D64Wdfyn3BMov1SrKX+QVPy91k0eh12BqE7I+kJw",
-  "logo": {
-    "file": "https://assets-jpcust.jwpsrv.com/watermarks/RUjIlP0s.png",
-    "hide": false,
-    "margin": "10",
-    "position": "top-right"
-  },
+  // "logo": {
+  //   "file": "https://assets-jpcust.jwpsrv.com/watermarks/RUjIlP0s.png",
+  //   "hide": false,
+  //   "margin": "10",
+  //   "position": "top-right"
+  // },
   "mute": false,
   "ph": 1,
   "pid": "Jq6HIbgz",
